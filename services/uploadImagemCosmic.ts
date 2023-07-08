@@ -3,9 +3,9 @@ import { createBucketClient } from "@cosmicjs/sdk";
     
 
     const bucketDevagram = createBucketClient({
-        bucketSlug: "devagram-imagens-publicacoes",
-        writeKey: "qTnnxcqdW1tC05QyFsdeH6SVb9TNrIDZc5JFNTgvOBReEhtR6d",
-        readKey: "2O4AGU5nJnX3HnRylL88QCQyQvUpOTC2PrPD1pugLUuVO9L81b"
+        bucketSlug: "",
+        writeKey: "",
+        readKey: ""
     });
     
 
